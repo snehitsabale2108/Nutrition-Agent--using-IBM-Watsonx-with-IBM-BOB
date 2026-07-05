@@ -10,7 +10,7 @@ flask-cors==4.0.1
 python-dotenv==1.0.1
 
 # IBM Watsonx.ai SDK
-ibm-watsonx-ai==1.1.2
+ibm-watsonx-ai>=1.5,<2.0
 
 # IBM Cloud authentication
 ibm-cloud-sdk-core==3.23.0
