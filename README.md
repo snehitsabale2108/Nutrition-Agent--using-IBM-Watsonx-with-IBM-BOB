@@ -43,6 +43,9 @@ Nutrition Agent/
         └── app.js          ← Full frontend logic
 ```
 
+## Application Link
+[NutriBot](https://nutrition-agent-owde.onrender.com/)
+
 ---
 
 ## 🚀 Quick Start
