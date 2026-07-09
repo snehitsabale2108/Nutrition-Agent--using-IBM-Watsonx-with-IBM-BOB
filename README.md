@@ -7,7 +7,7 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-blueviolet)](https://getbootstrap.com)
 
 ---
-
+ 
 ## 📖 Overview
 
 NutriBot is a full-stack AI-powered Nutrition Agent web application that provides:
